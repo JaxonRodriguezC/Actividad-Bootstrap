@@ -1,0 +1,14 @@
+.imagenes {
+    height: 100vh;
+   
+}
+
+.icons{
+    width: 30px;
+    height: 30px;
+
+}
+
+body {
+    background-color: gray;
+}
